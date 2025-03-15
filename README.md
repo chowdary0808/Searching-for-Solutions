@@ -1,1 +1,1 @@
-# Searching-for-Solutions
+Lowest Cost First Search - is a graph search algorithm used to identify the route in a weighted graph that occurs the lowest cost between a source node and a destination node. This algorithm is frequently used in many different problem solving’s, such as artificial intelligence, optimization issues, network routing.
